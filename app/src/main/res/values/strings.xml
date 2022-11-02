@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Festivals</string>
+    <string name="festival1">Pongal</string>
+    <string name="festival2">Holi</string>
+    <string name="festival3">Diwali</string>
+    <string name="festival4">Janmashtami</string>
+    <string name="festival5">Dusshera</string>
+    <string name="festival6">Eid</string>
+    <string name="festival7">Christmas</string>
+    <string name="festival8">Basant panchami</string>
+    <string name="festival9">Bihu</string>
+    <string name="festival10">Rakshabandhan.</string>
+    <string name="festival11">Ganesh chaturthi</string>
+    <string name="festival12">Durga pooja</string>
+    <string name="festival13">Guruparv</string>
+    <string name="festival14">Independence day</string>
+    <string name="festival15">Republic day</string>
+    <string name="festival16">Childrens day</string>
+    <string name="festival17">Gandhi jayanti</string>
+    <string name="festival18">Onam</string>
+    <string name="festival19">Navratri</string>
+    <string name="festival20">Makr sankranti</string>
+
+</resources>
+
